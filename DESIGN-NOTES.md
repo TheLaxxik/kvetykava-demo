@@ -54,3 +54,15 @@ Reject: serif, script, béžové karty, tiene, ružová, kopírovanie čohokoľv
 Adresa Komenského 8, 040 01 Košice · tel. 0905 260 694 · info@naturedecor.sk ·
 Ut–Pi 10:00–17:00 (obed 12:00–12:30), Po, So, Ne zatvorené · e-shop naturedecor.sk ·
 Google Maps 5,0 (19 recenzií) · Instagram instagram.com/kvetykava
+
+## Fotky (aktualizácia 19. 11. 2026)
+
+Pôvodné fotky podniku nahradené ilustračnými fotkami z Unsplash (licencia Unsplash, free). Na webe je to uvedené v demo pruhu.
+
+
+| Súbor | Unsplash (images.unsplash.com/photo-…) |
+|---|---|
+| images/hero.jpg | photo-1558861122-40aa75d3a841 |
+| images/kytica.jpg | photo-1523693916903-027d144a2b7d |
+| images/kytica2.jpg | photo-1523694576729-dc99e9c0f9b4 |
+| images/predajna.jpg | photo-1672777368849-9f55d9dd3623 |
